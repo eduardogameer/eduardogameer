@@ -2,9 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
 
-                                                    Como conhecer a Deus
-                        É como a luz do sol que, embora não tenha favoritos, não pode refletir-se num espelho coberto
-                                de pó com a mesma luminosidade com que se reflete num espelho limpo.
+                                                    - Como conhecer a Deus
+                        - É como a luz do sol que, embora não tenha favoritos, não pode refletir-se num espelho coberto
+                                - de pó com a mesma luminosidade com que se reflete num espelho limpo.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogamer78&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogamer78&theme=github)
