@@ -2,7 +2,7 @@
 
 <!-- Welcome Message Section -->
 <p align="center">
-<a alt="Eduardo Gamer Welcome Message" href="https://www.instagram.com/prdanielsaad/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=550&height=150&lines=%22Como+conhecer+a+Deus%22;%C3%89+como+a+luz+do+sol+que%2C+embora;n%C3%A3o+tenha+favoritos%2C+n%C3%A3o+pode;refletir-se+num+espelho+coberto;+de+p%C3%B3+com+a+mesma+luminosidade." /></a>
+<a alt="Eduardo Gamer Welcome Message" href="https://www.instagram.com/prdanielsaad/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1604F7FF&center=true&vCenter=true&multiline=true&width=550&height=150&lines=%22Como+conhecer+a+Deus%22;%C3%89+como+a+luz+do+sol+que%2C+embora;n%C3%A3o+tenha+favoritos%2C+n%C3%A3o+pode;refletir-se+num+espelho+coberto;+de+p%C3%B3+com+a+mesma+luminosidade." /></a>
 </p>
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
