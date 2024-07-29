@@ -2,9 +2,7 @@
 
 <!-- Welcome Message Section -->
 <p align="center">
-  <img alt="Eduardo Gamer Welcome Message"
-  src="https://readme-typing-svg.herokuapp.com/? 
-        lines=Como+conhecer+a+Deus+GitHub+Profile+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
+  <img alt="Eduardo Gamer" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=true&width=550&lines=%22Como+conhecer+a+Deus%22;%C3%89+como+a+luz+do+sol+que%2C+embora+n%C3%A3o;+tenha+favoritos+n%C3%A3o+pode+refletir-se+;num+espelho+coberto+de+p%C3%B3+com+a++mesma;mesma+luminosidade+;com+que+se+reflete+num+espelho+limpo." />
 </p>
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
