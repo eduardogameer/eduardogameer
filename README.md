@@ -3,7 +3,8 @@
 <!-- Welcome Message Section -->
 <p align="center">
   <img alt="Mahmoud Zalt's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=Como conhecer a Deus:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
+  src="https://readme-typing-svg.herokuapp.com/? 
+        lines=Como+conhecer+a+Deus+GitHub+Profile+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
 </p>
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
