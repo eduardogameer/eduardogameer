@@ -5,10 +5,6 @@
   <img alt="Eduardo Gamer Welcome Message" src="https://readme-typing-svg.herokuapp.com/ 
      lines=Como+conhecer+a+Deus+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
 </p>
-<p align="center">
-  <img alt="Eduardo Gamer Welcome Message" src="https://readme-typing-svg.herokuapp.com/ 
-     lines=É como a luz do sol que,+embora não tenha favoritos,+não pode refletir-se num espelho+coberto de pó com a mesma luminosidade com que se reflete num espelho limpo.+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
-</p>
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
 
