@@ -2,7 +2,7 @@
 
 <!-- Welcome Message Section -->
 <p align="center">
-  <img alt="Mahmoud Zalt's Welcome Message"
+  <img alt="Eduardo Gamer Welcome Message"
   src="https://readme-typing-svg.herokuapp.com/? 
         lines=Como+conhecer+a+Deus+GitHub+Profile+:)&color=33FF33&center=true&vCenter=true&width=550&height=50&pause=2000">
 </p>
