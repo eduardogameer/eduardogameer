@@ -11,7 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogamer78&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogamer78&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardogamer78&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogamer78&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogamer78&theme=aura_dark&utcOffset=3)
 
 <!--
 **eduardogamer78/eduardogamer78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
