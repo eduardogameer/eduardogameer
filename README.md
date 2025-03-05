@@ -7,7 +7,7 @@
 
 [![Github](https://img.shields.io/github/followers/eduardogamer78?label=Follow&style=social)](https://github.com/eduardogamer78)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogamer78&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardogamer78&theme=aura_dark)
