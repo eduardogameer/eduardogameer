@@ -9,7 +9,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogamer78&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardogamer78&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardogamer78&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardogamer78&theme=aura_dark&utcOffset=3)
 
